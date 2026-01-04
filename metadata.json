@@ -1,0 +1,5 @@
+{
+  "name": "AstroSolve AI",
+  "description": "An AI-powered application to analyze and 'plate solve' astronomical images. Upload an image of the night sky, and the AI will identify celestial objects, estimate coordinates, and provide a summary.",
+  "requestFramePermissions": []
+}
